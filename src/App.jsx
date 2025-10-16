@@ -19,6 +19,7 @@ export default function App() {
     <h1 class="text-3xl font-bold underline text-red-700">
     Hello world!
   </h1>
+  <h2 className='text-2xl font-semibold underline'>My Name is sanjida</h2>
 </div>
   );
 }
